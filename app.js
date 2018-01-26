@@ -481,7 +481,7 @@ const App = (function(ItemCtrl, StorageCtrl, UICtrl){
     // UI displays the items
     init: function(){
       // set app name
-      UICtrl.setAppName('Countermatic');
+      UICtrl.setAppName('GMatic');
 
       // set the initial state of the UI
       UICtrl.clearEditState();
