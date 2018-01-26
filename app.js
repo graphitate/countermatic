@@ -481,7 +481,7 @@ const App = (function(ItemCtrl, StorageCtrl, UICtrl){
     // UI displays the items
     init: function(){
       // set app name
-      UICtrl.setAppName('GMatic');
+      UICtrl.setAppName('Modulr');
 
       // set the initial state of the UI
       UICtrl.clearEditState();
